@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Data Analysis<br>👯 I'm looking to collaborate on Data Science Projects<br>🤝 I'm looking for help with Data Analytics<br>🌱 I'm currently learning Power BI Development<br>💬 Ask me about Gym, Software, Security & Data<br>⚡ Fun fact: IDK 🤔, Rick & Morty? Breaking Bad? Mario & Luigi? <br>       Who even starts a conversation like that
+🔭 I'm currently working on Data Analysis<br>👯 I'm looking to collaborate on Data Science Projects<br>🤝 I'm looking for help with Data Analytics<br>🌱 I'm currently learning Power BI Development<br>💬 Ask me about Gym, Software, Data & Security<br>⚡ Fun fact: IDK 🤔, Rick & Morty? Breaking Bad? Mario & Luigi? <br>       Who even starts a conversation like that
 
 
 ## 🌐 Socials:
